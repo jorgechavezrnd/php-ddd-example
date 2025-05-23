@@ -164,3 +164,7 @@ This code was shown in the [From framework coupled code to #microservices throug
 ## 🌐 remember to visit our courses
 
 - [Courses codely](https://codely.com/cursos)
+
+## 🏠 Original Repository
+
+- [php-ddd-example](https://github.com/CodelyTV/php-ddd-example)
